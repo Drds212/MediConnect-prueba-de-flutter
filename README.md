@@ -30,10 +30,4 @@ El proyecto se inicia en la pantalla de *login*. A partir de ahí, sigue estos p
 3.  **Si eres médico:** Accederás a una pantalla donde podrás agendar nuevas citas, así como filtrar y visualizar las citas ya programadas.
 4.  **Si eres paciente:** Verás una lista de los médicos disponibles. Podrás seleccionar a un médico para ver su perfil y tendrás un botón para abrir un modal de chat (esta funcionalidad aún no está disponible).
 
-### 🤝 Contribución
 
-*(Para este punto, necesitaría que me indiques si aceptas contribuciones y cómo te gustaría que se hicieran.)*
-
-### 📄 Licencia
-
-*(Para este punto, necesitaría que me indiques qué licencia deseas utilizar.)*# MediConnect-prueba-de-flutter
